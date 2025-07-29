@@ -1,0 +1,132 @@
+H:\אין יותר מה לעשות\יותר מעודכן\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\appsettings.Development.json
+H:\אין יותר מה לעשות\יותר מעודכן\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\appsettings.json
+H:\אין יותר מה לעשות\יותר מעודכן\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Server.exe
+H:\אין יותר מה לעשות\יותר מעודכן\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Server.deps.json
+H:\אין יותר מה לעשות\יותר מעודכן\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Server.runtimeconfig.json
+H:\אין יותר מה לעשות\יותר מעודכן\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Server.dll
+H:\אין יותר מה לעשות\יותר מעודכן\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Server.pdb
+H:\אין יותר מה לעשות\יותר מעודכן\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+H:\אין יותר מה לעשות\יותר מעודכן\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\אין יותר מה לעשות\יותר מעודכן\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\אין יותר מה לעשות\יותר מעודכן\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\אין יותר מה לעשות\יותר מעודכן\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\Server.csproj.AssemblyReference.cache
+H:\אין יותר מה לעשות\יותר מעודכן\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+H:\אין יותר מה לעשות\יותר מעודכן\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\Server.AssemblyInfoInputs.cache
+H:\אין יותר מה לעשות\יותר מעודכן\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\Server.AssemblyInfo.cs
+H:\אין יותר מה לעשות\יותר מעודכן\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\Server.csproj.CoreCompileInputs.cache
+H:\אין יותר מה לעשות\יותר מעודכן\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\Server.MvcApplicationPartsAssemblyInfo.cs
+H:\אין יותר מה לעשות\יותר מעודכן\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\Server.MvcApplicationPartsAssemblyInfo.cache
+H:\אין יותר מה לעשות\יותר מעודכן\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\staticwebassets.build.json
+H:\אין יותר מה לעשות\יותר מעודכן\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\staticwebassets.development.json
+H:\אין יותר מה לעשות\יותר מעודכן\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+H:\אין יותר מה לעשות\יותר מעודכן\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\staticwebassets\msbuild.build.Server.props
+H:\אין יותר מה לעשות\יותר מעודכן\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+H:\אין יותר מה לעשות\יותר מעודכן\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Server.props
+H:\אין יותר מה לעשות\יותר מעודכן\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\staticwebassets.pack.json
+H:\אין יותר מה לעשות\יותר מעודכן\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\scopedcss\bundle\Server.styles.css
+H:\אין יותר מה לעשות\יותר מעודכן\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\Server.csproj.Up2Date
+H:\אין יותר מה לעשות\יותר מעודכן\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\Server.dll
+H:\אין יותר מה לעשות\יותר מעודכן\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\refint\Server.dll
+H:\אין יותר מה לעשות\יותר מעודכן\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\Server.pdb
+H:\אין יותר מה לעשות\יותר מעודכן\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
+H:\אין יותר מה לעשות\יותר מעודכן\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\ref\Server.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\Server.csproj.AssemblyReference.cache
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\Server.AssemblyInfoInputs.cache
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\Server.AssemblyInfo.cs
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\Server.csproj.CoreCompileInputs.cache
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\Server.MvcApplicationPartsAssemblyInfo.cs
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\Server.MvcApplicationPartsAssemblyInfo.cache
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\Server.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\refint\Server.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\Server.pdb
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\appsettings.Development.json
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\appsettings.json
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Server.exe
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Server.deps.json
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Server.runtimeconfig.json
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Server.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Server.pdb
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Azure.Core.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Azure.Identity.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\System.ClientModel.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\System.Drawing.Common.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\System.Formats.Asn1.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\System.IO.Pipelines.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\System.Memory.Data.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\System.Security.Permissions.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\System.Text.Json.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Bl.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Dal.dll
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Bl.pdb
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\bin\Debug\net8.0\Dal.pdb
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\staticwebassets.build.json
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\staticwebassets.development.json
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\staticwebassets\msbuild.build.Server.props
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Server.props
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\staticwebassets.pack.json
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\scopedcss\bundle\Server.styles.css
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\Server.csproj.Up2Date
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
+H:\נסיוני ממש\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\ref\Server.dll
+H:\ProjectWorks\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\Server.csproj.AssemblyReference.cache
+H:\ProjectWorks\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+H:\ProjectWorks\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\Server.AssemblyInfoInputs.cache
+H:\ProjectWorks\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\Server.AssemblyInfo.cs
+H:\ProjectWorks\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\Server.csproj.CoreCompileInputs.cache
+H:\ProjectWorks\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\Server.MvcApplicationPartsAssemblyInfo.cs
+H:\ProjectWorks\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\Server.MvcApplicationPartsAssemblyInfo.cache
+H:\ProjectWorks\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\Server.dll
+H:\ProjectWorks\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\refint\Server.dll
+H:\ProjectWorks\FinalProject\TherapyCenter\Server\obj\Debug\net8.0\Server.pdb
